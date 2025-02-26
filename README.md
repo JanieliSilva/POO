@@ -1,4 +1,4 @@
-# PROGRAMÇÃO ORIENDADO A OBJETOVS
+# PROGRAMÇÃO ORIENDADO A OBJETOs
 Lista de exercicios 
 ## Questões feitas
 Q1- ok;
